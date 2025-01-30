@@ -3,7 +3,7 @@ This is a C-based console application designed to help students manage their cou
 
 Features:
 View All Courses: Display a list of all available courses.
-Suggested Courses for Semester 5: View recommended courses tailored for students in semester 5.
+Suggested Courses for Semester: View recommended courses for desire semester.
 Add Course: Add a course to the student's registration.
 Remove Course: Remove a course from the student's current registration.
 Display Registered Courses: View a list of courses that the student has currently registered for.
